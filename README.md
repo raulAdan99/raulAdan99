@@ -29,5 +29,5 @@ Mi nombre es Raúl Adán, tengo 25 años y soy un apasionado de la programación
 
 ### 📫 ¡Contáctame!
 - [LinkedIn](https://www.linkedin.com/) (Agrega tu enlace aquí)
-- [Correo electrónico](mailto:tucorreo@example.com) (Agrega tu email)
-- [Twitter](https://twitter.com/) (Opcional)
+- [Correo electrónico](mailto:tucorreo@example.com) (rauladan99@gmail.com)
+
