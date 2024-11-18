@@ -26,7 +26,7 @@ Mi nombre es Raúl Adán, tengo 25 años y soy un apasionado de la programación
 1. **Sistema de manejo de stock para almacenes**  
    Un proyecto que desarrollé para gestionar de forma eficiente el inventario de un almacén. Incluye funcionalidades para la entrada y salida de productos, reportes de stock, y alertas cuando los niveles de inventario están bajos.  
    **Tecnologías usadas:** Java, SQL, JavaFX, Maven.
-  https://github.com/raulAdan99/ControlDeMagatzem.git
+ [ https://github.com/raulAdan99/ControlDeMagatzem.git](https://github.com/raulAdan99/Control_Magatzem.git)
 ### 📫 ¡Contáctame!
 - [LinkedIn](https://www.linkedin.com/) (Agrega tu enlace aquí)
 - [Correo electrónico](mailto:tucorreo@example.com) (rauladan99@gmail.com)
