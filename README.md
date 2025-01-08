@@ -33,6 +33,7 @@ Mi nombre es **Raúl Adán**, tengo 25 años y soy un apasionado de la programac
 
 #### **Bases de datos:**  
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
 #### **Otros:**  
 - **Gestión de fechas y tiempos** con `java.time`.  
@@ -59,4 +60,3 @@ Mi nombre es **Raúl Adán**, tengo 25 años y soy un apasionado de la programac
 
 ### 📷 **Tecnologías visualizadas**  
 ![Tecnologías](ruta/a/tu/imagen.png)
-
