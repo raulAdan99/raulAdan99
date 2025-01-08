@@ -50,6 +50,25 @@ Mi nombre es **Raúl Adán**, tengo 25 años y soy un apasionado de la programac
    **Tecnologías usadas:** Java, SQL, JavaFX, Spring Boot, Maven.  
    [Control de Magatzem - Repositorio GitHub](https://github.com/raulAdan99/ControlDeMagatzem.git)  
 
+2. **Sistema de Alquiler de Coches**  
+   Un proyecto que desarrollé para gestionar de forma eficiente el alquiler de vehículos. Incluye funcionalidades para registrar clientes y vehículos, gestionar reservas, generar reportes de uso de flota y alertas cuando un vehículo necesita mantenimiento o está próximo a ser devuelto.
+
+   **Características principales:**  
+   - **Gestión de vehículos:** Registro de nuevos coches, estado de los vehículos (disponible, alquilado, en mantenimiento).  
+   - **Gestión de clientes:** Alta, baja y modificación de clientes.  
+   - **Gestión de reservas:** Creación, actualización y cancelación de reservas.  
+   - **Reportes:** Informes de ocupación de flota y estadísticas de uso.  
+   - **Alertas:** Notificaciones para devoluciones próximas y mantenimiento de vehículos.
+
+   **Tecnologías utilizadas:**  
+   - **Java**: Lenguaje principal para la lógica de la aplicación.  
+   - **SQL**: Base de datos para almacenar información de vehículos, clientes y reservas.  
+   - **JavaFX**: Interfaz gráfica amigable y fácil de usar.  
+   - **Spring Boot**: Framework para construir el backend con REST API y gestión de servicios.  
+   - **Maven**: Herramienta para la gestión de dependencias y construcción del proyecto.  
+
+   [Control de Alquiler de Coches - Repositorio GitHub](https://github.com/raulAdan99/ranaredb.git)
+
 ---
 
 ### 📫 **¡Contáctame!**  
@@ -59,4 +78,4 @@ Mi nombre es **Raúl Adán**, tengo 25 años y soy un apasionado de la programac
 ---
 
 ### 📷 **Tecnologías visualizadas**  
-![Tecnologías](ruta/a/tu/imagen.png)
+(Puedes añadir aquí una imagen o gráfico representando tus tecnologías si lo deseas).
