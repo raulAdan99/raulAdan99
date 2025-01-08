@@ -69,6 +69,9 @@ Mi nombre es **Raúl Adán**, tengo 25 años y soy un apasionado de la programac
 
    [Control de Alquiler de Coches - Repositorio GitHub](https://github.com/raulAdan99/ranaredb.git)
 
+   Presentación: https://www.canva.com/design/DAGbjgoo1rc/9eudWP9foC1aYw9ay-fK1w/edit?utm_content=DAGbjgoo1rc&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+   Memoria: https://docs.google.com/document/d/1I8rbTUmTRgoq9Yb1XuzH5R812gyzaxtdh6coBAhTTcw/edit?usp=sharing
+   
 ---
 
 ### 📫 **¡Contáctame!**  
