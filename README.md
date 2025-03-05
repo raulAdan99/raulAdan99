@@ -73,7 +73,13 @@ Mi nombre es **Raúl Adán**, tengo 25 años y soy un apasionado de la programac
    
    Memoria: https://docs.google.com/document/d/1I8rbTUmTRgoq9Yb1XuzH5R812gyzaxtdh6coBAhTTcw/edit?usp=sharing
 
-
+**Sístemi de gestión de informes clínicos**
+   **Tecnologías utilizadas:**
+   
+   - **Java**: Lenguaje principal para la lógica de la aplicación.  
+   - **SQL**: Base de datos para almacenar información de vehículos, clientes y reservas.  
+   - **Spring Boot**: Framework para construir el backend con REST API y gestión de servicios.
+   - **Kotlin**:Lenguaje utilizado para frontEnd de la aplicación.
    https://github.com/raulAdan99/clindat
 ---
 
