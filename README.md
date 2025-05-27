@@ -83,6 +83,40 @@ Mi nombre es **Raúl Adán**, tengo 25 años y soy un apasionado de la programac
    https://github.com/raulAdan99/clindat
 ---
 
+ Conquesta Central – Juego de estrategia en tiempo real
+Descripción:
+Conquesta Central es un videojuego de estrategia táctica en tiempo real desarrollado con Unity 3D, en el que el jugador debe reclutar y controlar unidades del tipo piedra, papel o tijera para dominar el centro del mapa. El juego se basa en una mecánica estratégica de ventajas circulares (piedra vence a tijera, tijera vence a papel, papel vence a piedra) y en el control territorial mediante acumulación de puntos.
+
+Objetivo:
+Alcanzar 100 puntos de victoria manteniendo el control del punto central mientras compites contra una IA adaptativa. El jugador puede seleccionar unidades de forma individual, ordenar movimientos y ataques, y gestionar recursos para reclutar tropas.
+
+Características principales:
+
+Control táctico mediante clic izquierdo y derecho del ratón
+
+IA escalable con dos niveles de dificultad
+
+Nodos de recursos que otorgan energía para reclutar
+
+Estética minimalista con modelos medievales estilizados
+
+Compatible con Windows y Linux
+
+Interfaz HUD que muestra recursos, puntuación y resultados
+
+Tecnologías utilizadas:
+
+Unity 3D (motor principal)
+
+C# para la programación de lógica e inteligencia artificial
+
+NavMesh para navegación y movimiento automático de unidades
+
+Canvas UI para interfaces y menús interactivos
+
+Sistema de animaciones con estados de inactividad, movimiento, ataque y muerte
+
+🔗 Repositorio GitHub: (pendiente de publicar)
 ### 📫 **¡Contáctame!**  
 - [LinkedIn](https://www.linkedin.com/) (Agrega tu enlace aquí)  
 - [Correo electrónico](mailto:rauladan99@gmail.com)  
