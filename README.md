@@ -116,7 +116,7 @@ Canvas UI para interfaces y menús interactivos
 
 Sistema de animaciones con estados de inactividad, movimiento, ataque y muerte
 
-🔗 Repositorio GitHub: (pendiente de publicar)
+🔗 Repositorio GitHub: (https://github.com/raulAdan99/ConquestaTotal)
 ### 📫 **¡Contáctame!**  
 - [LinkedIn](https://www.linkedin.com/) (Agrega tu enlace aquí)  
 - [Correo electrónico](mailto:rauladan99@gmail.com)  
